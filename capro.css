@@ -12,6 +12,6 @@ table, th, td, tr, caption{
     #image{
         width: 50%;
         margin-inline: auto;
-        display: block;
+        display: inline;
     }
   }
